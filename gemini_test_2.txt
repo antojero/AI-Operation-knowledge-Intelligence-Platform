@@ -1,6 +1,0 @@
-data: {"type": "start", "thread_id": "30a6696c-778f-4081-b692-844394ac2cfd"}
-
-data: {"type": "error", "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"}
-
-data: [DONE]
-
