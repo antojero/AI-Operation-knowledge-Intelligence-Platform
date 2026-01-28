@@ -1,0 +1,6 @@
+data: {"type": "start", "thread_id": "0cbaf677-31a9-4605-8534-6dccf6aefaf2"}
+
+data: {"type": "error", "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"}
+
+data: [DONE]
+
